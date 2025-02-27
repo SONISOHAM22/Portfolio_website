@@ -37,7 +37,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/SONISOHAM22/Portfolio_website.git
 cd portfolio
 ```
 
@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Soham Soni - sonisoham91@gmail.com
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [https://github.com/SONISOHAM22/Portfolio_website](https://github.com/SONISOHAM22/Portfolio_website)
 
 ## Acknowledgments
 
